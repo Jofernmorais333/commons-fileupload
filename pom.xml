@@ -80,13 +80,13 @@
     <commons.osgi.import>!javax.portlet,*</commons.osgi.import>
     <commons.osgi.dynamicImport>javax.portlet</commons.osgi.dynamicImport>
     <commons.servlet-api.version>2.5</commons.servlet-api.version>
-    <commons.io.version>2.20.0</commons.io.version>
+    <commons.io.version>2.21.0</commons.io.version>
     <commons.lang3.version>3.19.0</commons.lang3.version>
     <japicmp.skip>true</japicmp.skip>
     <animal.sniffer.skip>true</animal.sniffer.skip>
     <commons.javadoc.javaee.link>https://jakarta.ee/specifications/platform/9.1/apidocs/</commons.javadoc.javaee.link>
     <!-- Until commons-parent 73 -->
-    <commons.javadoc.options />
+    <commons.javadoc.options/>
     <!-- Commons Release Plugin -->
     <commons.bc.version>2.0.0-M4</commons.bc.version>
     <commons.rc.version>RC1</commons.rc.version>
@@ -304,19 +304,19 @@
       <name>Robert Burrell Donkin</name>
       <id>rdonkin</id>
       <email>rdonkin@apache.org</email>
-      <organization />
+      <organization/>
     </developer>
     <developer>
       <name>Sean C. Sullivan</name>
       <id>sullis</id>
       <email>sean |at| seansullivan |dot| com</email>
-      <organization />
+      <organization/>
     </developer>
     <developer>
       <name>Jochen Wiedmann</name>
       <id>jochen</id>
       <email>jochen.wiedmann@gmail.com</email>
-      <organization />
+      <organization/>
     </developer>
     <developer>
       <name>Simone Tripodi</name>
